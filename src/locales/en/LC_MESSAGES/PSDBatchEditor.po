@@ -1,0 +1,205 @@
+# PSD Batch Editor
+# Copyright (c) 2023-2024 Romain Dereu
+# This code is licensed under MIT license (see LICENSE.txt for details)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-16 00:22+0900\n"
+"PO-Revision-Date: 2024-09-16 00:23+0900\n"
+"Last-Translator: Romain DereuLanguage-Team:\n"
+"Language-Team: \n"
+"Language: enmime\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: PSD_Batch_Editor.py:67 PSD_Batch_Editor.py:586 PSD_Batch_Editor.py:815
+msgid "English"
+msgstr "English"
+
+#: PSD_Batch_Editor.py:73 PSD_Batch_Editor.py:586 PSD_Batch_Editor.py:818
+msgid "Japanese"
+msgstr "Japanese"
+
+#: PSD_Batch_Editor.py:125 PSD_Batch_Editor.py:187
+msgid "Yes"
+msgstr "Yes"
+
+#: PSD_Batch_Editor.py:137 PSD_Batch_Editor.py:258
+msgid "File Name"
+msgstr "File Name"
+
+#: PSD_Batch_Editor.py:137 PSD_Batch_Editor.py:266
+msgid "Width in px"
+msgstr "Width in px"
+
+#: PSD_Batch_Editor.py:138 PSD_Batch_Editor.py:270
+msgid "Height in px"
+msgstr "Height in px"
+
+#: PSD_Batch_Editor.py:138 PSD_Batch_Editor.py:263
+msgid "Color Mode"
+msgstr "Color Mode"
+
+#: PSD_Batch_Editor.py:139 PSD_Batch_Editor.py:275
+msgid "Layer list"
+msgstr "Layer list"
+
+#: PSD_Batch_Editor.py:139 PSD_Batch_Editor.py:280
+msgid "Has hidden layers"
+msgstr "Has hidden layers"
+
+#: PSD_Batch_Editor.py:161 PSD_Batch_Editor.py:436
+msgid "Bitmap"
+msgstr "Bitmap"
+
+#: PSD_Batch_Editor.py:163 PSD_Batch_Editor.py:437
+msgid "Grayscale"
+msgstr "Grayscale"
+
+#: PSD_Batch_Editor.py:165
+msgid "Indexed"
+msgstr "Indexed"
+
+#: PSD_Batch_Editor.py:167 PSD_Batch_Editor.py:434
+msgid "RGB"
+msgstr "RGB"
+
+#: PSD_Batch_Editor.py:169 PSD_Batch_Editor.py:435
+msgid "CMYK"
+msgstr "CMYK"
+
+#: PSD_Batch_Editor.py:171 PSD_Batch_Editor.py:438
+msgid "Multi Channel"
+msgstr "Multi Channel"
+
+#: PSD_Batch_Editor.py:173
+msgid "Duo Tone"
+msgstr "Duo Tone"
+
+#: PSD_Batch_Editor.py:175
+msgid "Color Lab"
+msgstr "Color Lab"
+
+#: PSD_Batch_Editor.py:179
+msgid "No"
+msgstr "No"
+
+#: PSD_Batch_Editor.py:197 PSD_Batch_Editor.py:351
+msgid "Select Folder"
+msgstr "Select Folder"
+
+#: PSD_Batch_Editor.py:199
+msgid "Please select a folder containing PSD files"
+msgstr "Please select a folder containing PSD files"
+
+#: PSD_Batch_Editor.py:316 PSD_Batch_Editor.py:843
+msgid "PSD Batch Editor"
+msgstr "PSD Batch Editor"
+
+#: PSD_Batch_Editor.py:330
+msgid "Filters"
+msgstr "Filters"
+
+#: PSD_Batch_Editor.py:335
+msgid "App Settings"
+msgstr "App Settings"
+
+#: PSD_Batch_Editor.py:349 PSD_Batch_Editor.py:372
+msgid "Choose your Folder"
+msgstr "Choose your Folder"
+
+#: PSD_Batch_Editor.py:356
+msgid "Launch"
+msgstr "Launch"
+
+#: PSD_Batch_Editor.py:411
+msgid "File Name Contains"
+msgstr "File Name Contains"
+
+#: PSD_Batch_Editor.py:416
+msgid "Select files containing the string"
+msgstr "Select files containing the string"
+
+#: PSD_Batch_Editor.py:428
+msgid "Color Profile"
+msgstr "Color Profile"
+
+#: PSD_Batch_Editor.py:439
+msgid "Duotone"
+msgstr "Duotone"
+
+#: PSD_Batch_Editor.py:450
+msgid "Height"
+msgstr "Height"
+
+#: PSD_Batch_Editor.py:455 PSD_Batch_Editor.py:481
+msgid "From"
+msgstr "From"
+
+#: PSD_Batch_Editor.py:460 PSD_Batch_Editor.py:491
+msgid "To"
+msgstr "To"
+
+#: PSD_Batch_Editor.py:476
+msgid "Width"
+msgstr "Width"
+
+#: PSD_Batch_Editor.py:510
+msgid "Layer settings"
+msgstr "Layer settings"
+
+#: PSD_Batch_Editor.py:516
+msgid "Select files with the following layer name"
+msgstr "Select files with the following layer name"
+
+#: PSD_Batch_Editor.py:526
+msgid "Show only files with hidden layers"
+msgstr "Show only files with hidden layers"
+
+#: PSD_Batch_Editor.py:537
+msgid "Show all layer names"
+msgstr "Show all layer names"
+
+#: PSD_Batch_Editor.py:548
+msgid "Apply Filter"
+msgstr "Apply Filter"
+
+#: PSD_Batch_Editor.py:559
+msgid "Reset all filters"
+msgstr "Reset all filters"
+
+#: PSD_Batch_Editor.py:581
+msgid "Change the language"
+msgstr "Change the language"
+
+#: PSD_Batch_Editor.py:590
+msgid "Change language"
+msgstr "Change language"
+
+#: PSD_Batch_Editor.py:598
+msgid "About PSD Batch Editor"
+msgstr "About PSD Batch Editor"
+
+#: PSD_Batch_Editor.py:603
+msgid ""
+"\n"
+"PSD Batch Editor\n"
+"Copyright (c) 2023-2024 Romain Dereu\n"
+"https://github.com/RomainDereu/PSD-Batch-Editor\n"
+"\n"
+"\n"
+"Contact me for bug reports / feature requests"
+msgstr ""
+"\n"
+"PSD Batch Editor\n"
+"Copyright (c) 2023-2024 Romain Dereu\n"
+"https://github.com/RomainDereu/PSD-Batch-Editor\n"
+"\n"
+"\n"
+"Contact me for bug reports / feature requests"

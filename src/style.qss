@@ -1,0 +1,16 @@
+/* PSD Batch Editor
+Copyright (c) 2023-2024 Romain Dereu
+This code is licensed under MIT license (see LICENSE.txt for details)*/
+
+QLabel#Title{font: bold;
+}
+
+QSpinBox{
+    min-height: 20;
+    max-height: 20;
+    
+}
+
+QMessageBox QLabel {
+    padding: 50;
+}

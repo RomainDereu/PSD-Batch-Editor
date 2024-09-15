@@ -1,0 +1,207 @@
+# PSD Batch Editor
+# Copyright (c) 2023-2024 Romain Dereu
+# This code is licensed under MIT license (see LICENSE.txt for details)
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-16 00:22+0900\n"
+"PO-Revision-Date: 2024-09-16 00:22+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: jamime\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: PSD_Batch_Editor.py:67 PSD_Batch_Editor.py:586 PSD_Batch_Editor.py:815
+msgid "English"
+msgstr "英語"
+
+#: PSD_Batch_Editor.py:73 PSD_Batch_Editor.py:586 PSD_Batch_Editor.py:818
+msgid "Japanese"
+msgstr "日本語"
+
+#: PSD_Batch_Editor.py:125 PSD_Batch_Editor.py:187
+msgid "Yes"
+msgstr "はい"
+
+#: PSD_Batch_Editor.py:137 PSD_Batch_Editor.py:258
+msgid "File Name"
+msgstr "ファイル名"
+
+#: PSD_Batch_Editor.py:137 PSD_Batch_Editor.py:266
+msgid "Width in px"
+msgstr "幅(px)"
+
+#: PSD_Batch_Editor.py:138 PSD_Batch_Editor.py:270
+msgid "Height in px"
+msgstr "高さ(px)"
+
+#: PSD_Batch_Editor.py:138 PSD_Batch_Editor.py:263
+msgid "Color Mode"
+msgstr "カラーモード"
+
+#: PSD_Batch_Editor.py:139 PSD_Batch_Editor.py:275
+msgid "Layer list"
+msgstr "レイヤーリスト"
+
+#: PSD_Batch_Editor.py:139 PSD_Batch_Editor.py:280
+msgid "Has hidden layers"
+msgstr "非表示レイヤー有り"
+
+#: PSD_Batch_Editor.py:161 PSD_Batch_Editor.py:436
+msgid "Bitmap"
+msgstr "Bitmap"
+
+#: PSD_Batch_Editor.py:163 PSD_Batch_Editor.py:437
+msgid "Grayscale"
+msgstr "Grayscale"
+
+#: PSD_Batch_Editor.py:165
+msgid "Indexed"
+msgstr "Indexed"
+
+#: PSD_Batch_Editor.py:167 PSD_Batch_Editor.py:434
+msgid "RGB"
+msgstr "RGB"
+
+#: PSD_Batch_Editor.py:169 PSD_Batch_Editor.py:435
+msgid "CMYK"
+msgstr "CMYK"
+
+#: PSD_Batch_Editor.py:171 PSD_Batch_Editor.py:438
+msgid "Multi Channel"
+msgstr "マルチチャンネル"
+
+#: PSD_Batch_Editor.py:173
+msgid "Duo Tone"
+msgstr "デュオ・トーン"
+
+#: PSD_Batch_Editor.py:175
+msgid "Color Lab"
+msgstr "カラーラボ"
+
+#: PSD_Batch_Editor.py:179
+msgid "No"
+msgstr "いいえ"
+
+#: PSD_Batch_Editor.py:197 PSD_Batch_Editor.py:351
+msgid "Select Folder"
+msgstr "フォルダの選択"
+
+#: PSD_Batch_Editor.py:199
+msgid "Please select a folder containing PSD files"
+msgstr "PSDファイルを入れるフォルダを選択してください"
+
+#: PSD_Batch_Editor.py:316 PSD_Batch_Editor.py:843
+msgid "PSD Batch Editor"
+msgstr "PSD　バッチ　エディター"
+
+#: PSD_Batch_Editor.py:330
+msgid "Filters"
+msgstr "フィルター"
+
+#: PSD_Batch_Editor.py:335
+msgid "App Settings"
+msgstr "アプリの設定"
+
+#: PSD_Batch_Editor.py:349 PSD_Batch_Editor.py:372
+msgid "Choose your Folder"
+msgstr "フォルダーを選択してください"
+
+#: PSD_Batch_Editor.py:356
+msgid "Launch"
+msgstr "実装"
+
+#: PSD_Batch_Editor.py:411
+msgid "File Name Contains"
+msgstr "ファイル名"
+
+#: PSD_Batch_Editor.py:416
+msgid "Select files containing the string"
+msgstr "下記のファイル名を含む文字を表示"
+
+#: PSD_Batch_Editor.py:428
+msgid "Color Profile"
+msgstr "カラープロファイル"
+
+#: PSD_Batch_Editor.py:439
+msgid "Duotone"
+msgstr "デュオ・トーン"
+
+#: PSD_Batch_Editor.py:450
+msgid "Height"
+msgstr "高さ"
+
+#: PSD_Batch_Editor.py:455 PSD_Batch_Editor.py:481
+msgid "From"
+msgstr "から"
+
+#: PSD_Batch_Editor.py:460 PSD_Batch_Editor.py:491
+msgid "To"
+msgstr "まで"
+
+#: PSD_Batch_Editor.py:476
+msgid "Width"
+msgstr "幅"
+
+#: PSD_Batch_Editor.py:510
+msgid "Layer settings"
+msgstr "レイヤー設定"
+
+#: PSD_Batch_Editor.py:516
+msgid "Select files with the following layer name"
+msgstr "下記のレイヤー名を含む文字を表示"
+
+#: PSD_Batch_Editor.py:526
+msgid "Show only files with hidden layers"
+msgstr "非表示レイヤーを含むレイヤーのみを表示"
+
+#: PSD_Batch_Editor.py:537
+msgid "Show all layer names"
+msgstr "すべてのレイヤー名を表示する"
+
+#: PSD_Batch_Editor.py:548
+msgid "Apply Filter"
+msgstr "フィルターを実行する"
+
+#: PSD_Batch_Editor.py:559
+msgid "Reset all filters"
+msgstr "フィルターをリセットする"
+
+#: PSD_Batch_Editor.py:581
+msgid "Change the language"
+msgstr "言語の変更"
+
+#: PSD_Batch_Editor.py:590
+msgid "Change language"
+msgstr "言語の変更"
+
+#: PSD_Batch_Editor.py:598
+msgid "About PSD Batch Editor"
+msgstr "PSD　バッチ　エディターについて"
+
+#: PSD_Batch_Editor.py:603
+msgid ""
+"\n"
+"PSD Batch Editor\n"
+"Copyright (c) 2023-2024 Romain Dereu\n"
+"https://github.com/RomainDereu/PSD-Batch-Editor\n"
+"\n"
+"\n"
+"Contact me for bug reports / feature requests"
+msgstr ""
+"\n"
+"PSD　バッチ　エディターr\n"
+"(c) 2023-2024 Romain Dereu\n"
+"https://github.com/RomainDereu/PSD-Batch-Editor\n"
+"\n"
+"\n"
+"不具合の報告・機能追加依頼がございましたら連絡してください。"
